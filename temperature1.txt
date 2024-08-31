@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <center>
+    <p>A SMALL TEMPERATURE CONVERTER:</p>
+    </center>
+    <link rel = "stylesheet" href = "styles.css"/>
+  </head>
+  <body style="background-color:lightpink;text-align:center">
+
+    <form>
+        <center>
+      <label for="celcius">Celcius:</label><br />
+      <input type="number" id="celcius" value = "0">
+      <br /><br />
+      <label for="fahr">Fahrenheit:</label><br />
+      <input type="number" id="fahr" value = "32">
+      <script src = "scripts.js"></script>
+        </center>
+    </form>
+  </body>
+</html>

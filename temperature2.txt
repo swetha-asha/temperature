@@ -1,0 +1,18 @@
+input {
+  border-radius: 15px;
+  border: 2px dashed #3c4043;
+  font-size: 16px;
+  line-height: 1;
+  outline: none;
+  font-weight: bold;
+  color: #FFFF;
+  padding: 5px 10px 5px 10px;
+  background-color: orange;
+}
+  
+p {
+  color: green;
+  font-weight: bold;
+  ;
+  
+}
